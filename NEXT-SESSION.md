@@ -1,0 +1,1 @@
+Tested terminal compilation and execution commands across CMD, PowerShell, and bash.

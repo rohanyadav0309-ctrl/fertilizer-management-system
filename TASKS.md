@@ -1,0 +1,1 @@
+- [x] Added DataStore.java (In-memory preloaded data store)\n- [x] Dual-mode JDBC + Zero-Installation fallback in DBConnection.java\n- [x] Updated Login, Dashboard, Fertilizer, Customer, Sales, Stock screens\n- [x] Tested clean compilation with javac *.java

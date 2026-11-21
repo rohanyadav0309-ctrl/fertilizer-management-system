@@ -1,0 +1,1 @@
+Enhanced Fertilizer Management System with automated Zero-Installation Standalone DataStore mode. Project now runs directly from terminal without any installation of MySQL or external drivers, pre-loaded with complete data (8 fertilizers, 5 customers, 4 sales) and full CRUD/Sales/Stock functionality.
